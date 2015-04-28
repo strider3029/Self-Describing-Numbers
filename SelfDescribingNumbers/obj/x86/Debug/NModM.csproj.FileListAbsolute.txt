@@ -1,0 +1,7 @@
+F:\Programming\CodeEval Challenges\N Mod M\NModM\bin\Debug\HexToDecimal.exe
+F:\Programming\CodeEval Challenges\N Mod M\NModM\bin\Debug\HexToDecimal.pdb
+F:\Programming\CodeEval Challenges\N Mod M\NModM\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming\CodeEval Challenges\N Mod M\NModM\obj\x86\Debug\HexToDecimal.exe
+F:\Programming\CodeEval Challenges\N Mod M\NModM\obj\x86\Debug\HexToDecimal.pdb
+F:\Programming\CodeEval Challenges\Happy Numbers\HappyNumbers\obj\x86\Debug\HexToDecimal.exe
+F:\Programming\CodeEval Challenges\Happy Numbers\HappyNumbers\obj\x86\Debug\HexToDecimal.pdb

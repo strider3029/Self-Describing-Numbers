@@ -1,0 +1,5 @@
+F:\Programming\CodeEval Challenges\Self Describing Numbers\SelfDescribingNumbers\bin\Debug\HexToDecimal.exe
+F:\Programming\CodeEval Challenges\Self Describing Numbers\SelfDescribingNumbers\bin\Debug\HexToDecimal.pdb
+F:\Programming\CodeEval Challenges\Self Describing Numbers\SelfDescribingNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming\CodeEval Challenges\Self Describing Numbers\SelfDescribingNumbers\obj\x86\Debug\HexToDecimal.exe
+F:\Programming\CodeEval Challenges\Self Describing Numbers\SelfDescribingNumbers\obj\x86\Debug\HexToDecimal.pdb
